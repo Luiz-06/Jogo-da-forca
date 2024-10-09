@@ -1,0 +1,11 @@
+10
+arara
+rato
+leao
+zebra
+macaco
+tigre
+tamandua
+onca
+peixe
+lula

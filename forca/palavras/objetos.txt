@@ -1,0 +1,11 @@
+10
+ratoeira
+faca
+caderno
+garfo
+estojo
+garrafa
+copo
+xicara
+travesseiro
+mamadeira
